@@ -6,4 +6,3 @@ mysql:8.4.3
 jenkins/jenkins:2.479.2-lts
 cloudreve/cloudreve:3.8.3
 portainer/portainer-ce:2.21.4
-redis/redisinsight:2.62
