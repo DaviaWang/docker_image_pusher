@@ -6,3 +6,4 @@ mysql:9.5.0
 jenkins/jenkins:2.528.3-lts
 cloudreve/cloudreve:4.10.1
 portainer/portainer-ce:2.33.6
+mongodb/mongodb-community-server:7.0-ubuntu2204
